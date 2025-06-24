@@ -4,6 +4,8 @@ const features = [
   { icon: 'mdi:rocket', title: 'Rápido', description: 'Carga instantánea y navegación fluida.' },
   { icon: 'mdi:shield-check', title: 'Seguro', description: 'Tu información está protegida.' },
   { icon: 'mdi:account-group', title: 'Colaborativo', description: 'Trabajo en equipo en tiempo real.' },
+  
+  
 ];
 
 export default function Features() {
